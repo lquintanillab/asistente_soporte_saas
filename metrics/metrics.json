@@ -1,0 +1,18 @@
+{"timestamp": "2026-03-30 02:50:49", "tokens_prompt": 450, "tokens_completion": 65, "total_tokens": 515, "latency": 1670.08}
+{"timestamp": "2026-03-30 02:51:26", "tokens_prompt": 451, "tokens_completion": 54, "total_tokens": 505, "latency": 1351.36}
+{"timestamp": "2026-03-30 02:55:16", "tokens_prompt": 450, "tokens_completion": 60, "total_tokens": 510, "latency": 1635.82}
+{"timestamp": "2026-03-30 03:09:58", "tokens_prompt": 452, "tokens_completion": 63, "total_tokens": 515, "latency": 2795.37}
+{"timestamp": "2026-03-30 03:21:39", "tokens_prompt": 447, "tokens_completion": 62, "total_tokens": 509, "latency": 1300.83}
+{"timestamp": "2026-03-30 03:31:52", "tokens_prompt": 449, "tokens_completion": 42, "total_tokens": 491, "latency": 1301.82}
+{"timestamp": "2026-03-30 03:40:03", "tokens_prompt": 449, "tokens_completion": 60, "total_tokens": 509, "latency": 2109.77}
+{"timestamp": "2026-03-30 03:41:27", "tokens_prompt": 449, "tokens_completion": 73, "total_tokens": 522, "latency": 3064.92}
+{"timestamp": "2026-03-30 11:43:57", "tokens_prompt": 443, "tokens_completion": 60, "total_tokens": 503, "latency": 3310.93}
+{"timestamp": "2026-03-30 11:56:33", "tokens_prompt": 517, "tokens_completion": 35, "total_tokens": 552, "latency": 2388.83}
+{"timestamp": "2026-03-30 12:16:02", "tokens_prompt": 519, "tokens_completion": 36, "total_tokens": 555, "latency": 1729.01, "agent_type": "router"}
+{"timestamp": "2026-03-30 12:16:04", "tokens_prompt": 596, "tokens_completion": 89, "total_tokens": 685, "latency": 1940.6}
+{"timestamp": "2026-03-30 12:16:51", "tokens_prompt": 528, "tokens_completion": 38, "total_tokens": 566, "latency": 2280.62, "agent_type": "router"}
+{"timestamp": "2026-03-30 12:16:54", "tokens_prompt": 605, "tokens_completion": 87, "total_tokens": 692, "latency": 3178.52}
+{"timestamp": "2026-03-30 12:17:30", "tokens_prompt": 536, "tokens_completion": 35, "total_tokens": 571, "latency": 2060.53, "agent_type": "router"}
+{"timestamp": "2026-03-30 12:17:34", "tokens_prompt": 613, "tokens_completion": 100, "total_tokens": 713, "latency": 4100.24}
+{"timestamp": "2026-03-30 12:58:12", "tokens_prompt": 519, "tokens_completion": 36, "total_tokens": 555, "latency": 2345.7, "agent_type": "router"}
+{"timestamp": "2026-03-30 12:58:15", "tokens_prompt": 596, "tokens_completion": 81, "total_tokens": 677, "latency": 3022.38}

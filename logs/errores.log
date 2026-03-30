@@ -1,0 +1,7 @@
+2026-03-30 02:22:56,913 - mi_app - ERROR - This is an error message for testing purposes.
+2026-03-30 02:25:17,254 - agente_ia - ERROR - Prompt file not found.
+2026-03-30 02:25:17,254 - agente_ia - ERROR - This is an error message for testing purposes.
+2026-03-30 02:49:37,343 - agente_ia - ERROR - Error writing metrics to file: [Errno 2] No such file or directory: 'metrics/metrics.json'
+2026-03-30 02:50:09,032 - agente_ia - ERROR - Error writing metrics to file: [Errno 2] No such file or directory: 'metrics/metrics.json'
+2026-03-30 11:38:12,983 - agente_ia - ERROR - Error calling OpenAI API with LangChain: 'AIMessage' object has no attribute 'usage'
+2026-03-30 11:41:57,174 - agente_ia - ERROR - Error calling OpenAI API with LangChain: 'dict' object has no attribute 'total_tokens'
